@@ -32,7 +32,8 @@ Deep learning-based Translation APIs (Google Translate API, MarianMT, etc.)
 
 Text-to-Speech libraries (pyttsx3, gTTS, etc.)
 
-Acknowledgments EasyOCR
+Acknowledgments 
+EasyOCR
 
 Google Translate API
 
